@@ -225,10 +225,10 @@ var callButton = function (key, settings) {
     }();
 };
 callButton("u2d6embblq", { 
-    title: "Перезвонить Вам?", 
+    title: "Вызов технической поддержки", 
     titleColor: "#FFFFFF", 
     backgroundColor: "#104E8B", 
-    top: "150px", 
+    top: "35px", 
     icon: false, 
     iconAnimated: false, 
     intrusiveMode: false, 
